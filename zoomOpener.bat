@@ -1,0 +1,1 @@
+C:\Users\Ayan\AppData\Local\Programs\Python\Python39\python.exe "C:/Users/Ayan/Desktop/zoomOpener.py"
