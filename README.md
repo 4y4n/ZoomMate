@@ -15,6 +15,7 @@ Don't edit the python file, edit the JSON to your liking instead!
     "classActive": "[DAYS CLASS IS RUNNING]"
 }
 ```
+- Make sure to add each class in order from start of the day to the end.
 ## startTime & endTime field:
 - Starting and ending time for the class string format.
 - Meant to be in 24h time.
