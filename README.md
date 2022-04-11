@@ -17,7 +17,7 @@ Don't edit the python file, edit the JSON to your liking instead!
 ```
 - Make sure to add each class in order from start of the day to the end.
 ## startTime & endTime field:
-- Starting and ending time for the class string format.
+- Starting and ending time for the class in string format.
 - Meant to be in 24h time.
 
 ## classActive field
