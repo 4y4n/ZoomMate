@@ -22,3 +22,6 @@ Don't edit the python file, edit the JSON to your liking instead!
 
 ## classActive field
 - Meant to map out which days the class is running. Add the days in short form.
+
+## Additional Notes:
+- Using Windows Task Scheduler in tandem with a .bat file can automate this program further, not requiring you to run the .py file every morning.
