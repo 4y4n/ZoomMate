@@ -1,7 +1,7 @@
 # ZoomOpener
 ## Automatic Zoom Opener for class
 Don't edit the python file, edit the JSON to your liking instead!
-- Make sure to turn on Auto turn off camera and mic in zoom settings beforehand.
+- Make sure to toggle on the auto turn off mic and camera options in zoom settings beforehand.
 - To use: Simply run the `zoomOpener.py` file with the `classData.json` on the same directory level. Don't close the program until your last class opens.
 ### classData file:
 - Structured like so:
