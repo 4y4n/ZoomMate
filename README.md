@@ -1,2 +1,3 @@
 # ZoomOpener
-Automatic Zoom Opener
+Automatic Zoom Opener for class
+
