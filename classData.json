@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Calculus",
+    "link": "https://zoom.us/j/98084043857?pwd=KzZjZ1BDdjN3S3dOanYvS1dOS014UT094",
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "classActive": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+  },
+  {
+    "name": "Chemistry",
+    "link": "https://zoom.us/j/95066945323?pwd=bTZKMGZyajBYa2NSMCtlZ1NScUhudz09",
+    "startTime": "10:25",
+    "endTime": "11:40",
+    "classActive": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+  },
+  {
+    "name": "Computer Science",
+    "link": "https://zoom.us/j/92920822922?pwd=Nkd4ZWtoNktUQ216dTlyM0QwV1BPQT09",
+    "startTime": "12:40",
+    "endTime": "13:55",
+    "classActive": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+  },
+  {
+    "name": "Physics",
+    "link": "https://zoom.us/j/96639769199?pwd=S0JaOGRKSmtYZjhNOVRBeVU3MzZWQT09",
+    "startTime": "14:00",
+    "endTime": "15:15",
+    "classActive": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+  },
+  {
+    "name": "Band",
+    "link": "https://zoom.us/j/96282161951?pwd=TUw5QkxwUjEwTkU4ZHpxNjRMWFdlZz09",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "classActive": ["Sat", "Sun"]
+  }
+]
