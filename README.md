@@ -10,8 +10,8 @@ Don't edit the python file, edit the JSON to your liking instead!
 {
     "name": "[NAME OF CLASS]",
     "link": "[ZOOM LINK]",
-    "startTime": "[HOUR CLASS STARTS]",
-    "endTime": "[MINUTE CLASS STARTS]",
+    "startTime": "[TIME CLASS STARTS]",
+    "endTime": "[TIME CLASS ENDS]",
     "classActive": "[DAYS CLASS IS RUNNING]"
 }
 ```
