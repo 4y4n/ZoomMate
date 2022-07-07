@@ -4,6 +4,7 @@ import json
 import os
 import webbrowser
 
+os.environ['path'] = '%PATH%;C:\Windows\System32;'
 classes = json.load(open('classData.json'))
 isStarted = False
 for i in classes:
